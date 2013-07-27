@@ -2,6 +2,8 @@
 
 We're watching...
 
+[See the archives here](https://www.dropbox.com/sh/5u3pe2powv2gufs/9yFfPey1As)
+
 ## To run the script:
 
 (assuming you have ruby installed, etc)
