@@ -17,11 +17,11 @@ class ALSDEMonitoring
 
   private
   def url
-    "http://www.alsde.edu/home/Executive/BoardMeetingInfo.aspx"
+    "http://www.alsde.edu/boe/Agenda.pdf"
   end
 
   def filename
-    File.join(@path, "#{today}_alsde_agenda.html")
+    File.join(@path, "#{today}_alsde_agenda.pdf")
   end
 
   def today
